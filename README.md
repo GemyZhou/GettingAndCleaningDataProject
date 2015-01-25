@@ -6,12 +6,12 @@
 
 Smartlab - Non Linear Complex Systems Laboratory has done a research work on human activity recognition and got experiment results.This script is to make the experiment results a tidy set.
 
-reference:
-[1] http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+reference:<br/>
+[1] http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones<br/>
 [2] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
 
-**The depository includes the following files:**
+**The depository includes following files:**
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ reference:
 - ‘run_analysis.R’: Gathers the experiment data sets and turns them to a tidy set.
 
 
-**Method:**
+**Steps:**
 
 -------------------------------------------------------
 1. Merges the training and the test sets to create one data set.<br>
