@@ -22,11 +22,9 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 
 These signals were used to estimate variables of the feature vector for each pattern:  ’-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-The set of variables that were estimated from these signals are: 
-mean(): Mean value
-std(): Standard deviation
+Only estimated mean and std of the signals were extracted as varibles. If a name contains "mean", the varible is a mean estimate and accordingly if a name contains "std", it stands for a std estimate.
 
-All these measurements were then been averaged by group of each activity and each subject.
+All these measurements were then been averaged by groups of each activity and each subject as the final varibles bellow.
 <hr -----------------------------------/>
 
 - tBodyAccmeanX
